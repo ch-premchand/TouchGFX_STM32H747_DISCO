@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#TouchGfx Files
+
+UI_Multi/CM7/TouchGFX/build/
+UI_Multi/CM7/TouchGFX/generated/
+
