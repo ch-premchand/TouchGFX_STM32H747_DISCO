@@ -12,21 +12,6 @@
 *.map
 *.exp
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
 
 # Executables
 *.exe
@@ -53,6 +38,6 @@ dkms.conf
 
 #TouchGfx Files
 
-UI_Multi/CM7/TouchGFX/build/
-UI_Multi/CM7/TouchGFX/generated/
+UI_Multi/CM7/TouchGFX/build/*
+UI_Multi/CM7/TouchGFX/generated/*
 
